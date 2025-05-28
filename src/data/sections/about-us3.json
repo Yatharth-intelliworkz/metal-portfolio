@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": "15+",
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "Creative Excellence ", "second": "for the Metal Industry" },
+  "content": {
+    "first": "We craft innovative solutions—spanning UI/UX, videos, graphics, social media, branding, and product photography—to empower metal industry businesses. Our mission is to deliver tailored, high-impact designs that enhance visibility, set industry standards, and build lasting partnerships with clients worldwide.",
+    "second": "We develop creative solutions for small and big brands alike, build authentic product identities and much more."
+  },
+  "smallTitle": "View Portfolio"
+}

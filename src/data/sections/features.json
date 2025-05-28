@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Intuitive UI/UX Design",
+        "content": "Seamless interfaces for metal industry applications and tools."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Dynamic Videos & CGI",
+        "content": "Compelling visuals to showcase products, processes, or campaigns."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Bold Graphic Design",
+        "content": "Striking logos, infographics, and visuals for the metal sector."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Engaging Social Media Content",
+        "content": "Targeted campaigns to boost brand visibility."
+    },
+    {
+        "id": 5,
+        "icon": "pe-7s-display1",
+        "title": "Cohesive Branding",
+        "content": "Identity systems that amplify market presence."
+    },
+    {
+        "id": 6,
+        "icon": "pe-7s-diskette",
+        "title": "Professional Product Photography",
+        "content": "High-quality images to highlight metal products with precision."
+    }
+]

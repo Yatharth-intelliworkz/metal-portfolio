@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Let's Talk.",
+  "email": "info@metalerp.com",
+  "phone": "+1800-270-0405",
+  "location": {
+    "first": "912-A, WTT, SG Highway,",
+    "second": "Ahmedabad"
+  }
+}
