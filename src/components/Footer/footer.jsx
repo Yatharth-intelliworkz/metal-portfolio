@@ -308,9 +308,9 @@ const Footer = ({ hideBGCOLOR }) => {
               <div className="title">
                 <h5>Follow on socials</h5>
               </div>
-              <div class="social">
+              <div className="social">
                 <a href="#0">
-                  <i class="fab fa-facebook-f"></i>
+                  <i className="fab fa-facebook-f"></i>
                 </a>
                 <a href="#0">
                   <i className="fab fa-linkedin-in"></i>
